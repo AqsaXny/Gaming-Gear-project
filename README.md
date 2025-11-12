@@ -1,4 +1,4 @@
-# uts_flutter
+# Gaming-Gear-FLutter-Project
 
 A new Flutter project.
 
